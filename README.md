@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/VibhorCodecianGupta/Bulls-and-Bears.svg?branch=develop)](https://travis-ci.com/VibhorCodecianGupta/Bulls-and-Bears)
+
 
 # Bulls and Bears
 
